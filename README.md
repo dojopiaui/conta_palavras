@@ -17,3 +17,5 @@ Precisa melhorar:
 - Assiduidade dos participantes;
 - Domínio de programação orientada a objetos e estruturas de dados básicas.
 
+Ver também: http://dojopi.wordpress.com/2012/06/19/coding-dojo-phb-2012-3-conta-palavras/
+
